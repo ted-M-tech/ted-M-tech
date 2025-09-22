@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tetsuya</h1>
+<h1 align="center">👋 Hi, I'm Tetsuya</h1>
 <h3 align="center">A passionate full stack developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted-m-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ted-m-tech" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tetsuya maeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tetsuya maeda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tetsuya-maeda-629b70294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tetsuya maeda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ted-m-tech&show_icons=true&locale=en&layout=compact" alt="ted-m-tech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ted-m-tech&show_icons=true&locale=en" alt="ted-m-tech" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ted-m-tech&" alt="ted-m-tech" /></p>

@@ -15,6 +15,7 @@ I'm committed to continuous learning and currently expanding my expertise in Dat
 
 - Sharing professional updates on <a href="https://www.linkedin.com/in/tetsuya-maeda-629b70294/">LinkedIn</a> 💼
 - Reach me via email at **tetsuya.maeda.mail@gmail.com** 📧
+- <a href="https://ted-portfolio-site.vercel.app/">My Portfolio Site</a>
 
 ---
 

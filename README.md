@@ -20,9 +20,5 @@ I'm committed to continuous learning and currently expanding my expertise in Dat
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ted-m-tech&show_icons=true&theme=default&hide_border=true" alt="Tetsuya's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ted-m-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
